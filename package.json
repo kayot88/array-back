@@ -33,6 +33,6 @@
     "coveralls": "^3.0.2",
     "jsdoc-to-markdown": "^4.0.1",
     "rollup": "^0.67.3",
-    "test-runner": "^0.5.1"
+    "test-runner": "^0.8.13"
   }
 }
